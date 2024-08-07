@@ -1,1 +1,0 @@
-# mendeleyka.github.io
