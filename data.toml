@@ -1,0 +1,38 @@
+name = "Mendeleyka"
+description = "Python codder, baseabuser, idiot"
+keywords = "python, tg, mendeleyka"
+image = "jake.webp"
+theme = "dark"
+primary_color = "#d81b60"
+text_align = "center"
+gtag_id = "G-33WB8LVHR6"
+base_url = "https://github.com/Mendeleyka/Mendeleyka.git"
+
+[[sections]]
+title = "Youtube"
+description = "My Youtube ahahah"
+url = "https://www.youtube.com/@mendeleykashusha2239"
+[[sections.items]]
+title = "GitHub"
+description = "gt idiota"
+url = "https://github.com/Mendeleyka"
+[[sections.items]]
+title = "Steam"
+description = "my acc steam 20yo"
+url = "https://steamcommunity.com/profiles/76561197963021849/"
+
+[[sections]]
+title = "Links"
+description = "Look for me on these"
+direction = "row"
+item_style = "filled"
+[[sections.items]]
+title = "Telegram"
+url = "https://t.me/mendeIeyka"
+[[sections.items]]
+title = "VK"
+url = "https://vk.com/mendeleyka"
+[[sections.items]]
+title = "Discord"
+url = "https://discord.gg/5fZpR77a"
+[[sections.items]]
